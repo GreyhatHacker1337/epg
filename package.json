@@ -67,7 +67,7 @@
     "csv-parser": "^3.0.0",
     "cwait": "^1.1.2",
     "dayjs": "^1.11.10",
-    "epg-grabber": "^0.38.0",
+    "epg-grabber": "^0.46.1",
     "epg-parser": "^0.3.1",
     "eslint": "^9.17.0",
     "eslint-config-prettier": "^9.0.0",
