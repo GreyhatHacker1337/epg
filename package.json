@@ -83,7 +83,7 @@
     "jest-offline": "^1.0.1",
     "langs": "^2.0.0",
     "libxml2-wasm": "^0.5.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "luxon": "^3.3.0",
     "mockdate": "^3.0.5",
     "nedb-promises": "^6.0.3",
